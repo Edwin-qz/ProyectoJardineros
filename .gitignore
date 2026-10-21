@@ -1,0 +1,11 @@
+# IntelliJ IDEA / Android Studio
+.idea/caches/
+.idea/workspace.xml
+.idea/shelf/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+push_to_github.bat
+
